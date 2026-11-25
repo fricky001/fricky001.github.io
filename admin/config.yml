@@ -17,8 +17,8 @@ backend:
   base_url: https://sveltia-cms-additions.1208558581.workers.dev
 
 # 網站資訊（後台右上角可快速開啟正式網站）
-site_url: https://dongguang-medical.com
-display_url: https://dongguang-medical.com
+site_url: https://fricky001.github.io
+display_url: https://fricky001.github.io
 
 # 圖片上傳位置
 media_folder: assets/uploads        # 存進 repo 的實際資料夾
